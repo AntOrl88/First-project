@@ -3,7 +3,7 @@ html,body {
 }
 
 body {
-	background: light blue;
+	background:red;
 }
 
 h1{
@@ -12,7 +12,7 @@ h1{
 	
   }
   a img {
-	  height: 300px; 
+	  height: 350px; 
   }
   
   .navbar li {
