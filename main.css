@@ -1,12 +1,9 @@
 html,body {
 	font- family: sans-serif;
-	margin: 50;
-	width: 100%;
-	height: 100%
 }
 
 body {
-	background:grey;
+	background: white;
 }
 
 h1{
@@ -17,3 +14,16 @@ h1{
   a img {
 	  height: 300px; 
   }
+  
+  .navbar li {
+  display: inline;
+  }
+  
+  .logo {
+	  float: left;
+	  width: 50px;
+  }
+ 
+ #contatti {
+	 float: right;
+ }
