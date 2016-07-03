@@ -2,6 +2,8 @@
  * Globals
  */
 
+ @import url(https://fonts.googleapis.com/css?family=Heebo);
+ 
 /* Links */
 a,
 a:focus,
@@ -27,11 +29,11 @@ a:hover {
 html,
 body {
   height: 100%;
- 
+  font-family: 'Heebo', Arial, serif; font-weight: 400;
 }
 body {
-	background-image: url("MOSAICODE/aereo in sunset.jpg");
-	background-position: center bottom;
+	background-image: url("https://c1.staticflickr.com/9/8488/8214055888_33006223b5_b.jpg");
+	background-position: top;
 	background-size: cover;
 	background-repeat: no-repeat;
   color: #fff;
