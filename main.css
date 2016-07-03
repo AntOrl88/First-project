@@ -1,0 +1,29 @@
+html,body {
+	font- family: sans-serif;
+}
+
+body {
+	background:yellow;
+}
+
+h1{
+	color:black;
+	
+	
+  }
+  a img {
+	  height: 350px; 
+  }
+  
+  .navbar li {
+  display: inline;
+  }
+  
+  .logo {
+	  float: left;
+	  width: 50px;
+  }
+ 
+ #contatti {
+	 float: right;
+ }
